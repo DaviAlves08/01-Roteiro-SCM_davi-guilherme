@@ -85,6 +85,11 @@ body {
 .btn:hover {
     background-color: #2980b9;
 }
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
 
 /* ========== SEÇÕES ========== */
 /* TODO: Adicionar estilos para as seções "Sobre" e "Serviços" */
